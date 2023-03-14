@@ -1,7 +1,7 @@
 package com.example.demo
 
-import jakarta.persistence.Entity
-import jakarta.persistence.Id
+import javax.persistence.Entity
+import javax.persistence.Id
 import java.time.LocalDate
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
